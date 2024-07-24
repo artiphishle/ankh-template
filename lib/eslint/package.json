@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-google": "latest"
+  },
+  "description": "ESLint config using Google rules",
+  "name": "@artiphishle/eslint",
+  "version": "1.0.0"
+}

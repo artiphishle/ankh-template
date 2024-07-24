@@ -8,11 +8,10 @@ quoteProps: "as-needed"
 jsxSingleQuote: false
 trailingComma: "es5"
 bracketSpacing: false
-jsxBracketSameLine: false
 arrowParens: "always"
-# rangeStart: 0
-# rangeEnd: 10000000000000000
-# filepath: ""
+rangeStart: 0
+rangeEnd: 10000000000000000
+filepath: ""
 requirePragma: false
 insertPragma: false
 proseWrap: "preserve"
